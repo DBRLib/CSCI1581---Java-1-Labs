@@ -2,7 +2,7 @@ CSCI1581 - Java 1 Labs
 
 Instructor: Franklin D. Worrell
 
-# Contents
+# Content
 
 Lab 1 - Hello World
 -Explores System.out.print();
